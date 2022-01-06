@@ -1,3 +1,3 @@
 # AES_Nodejs
->> npm install /n
->> node server/index.js
+>> npm install 
+node server/index.js
